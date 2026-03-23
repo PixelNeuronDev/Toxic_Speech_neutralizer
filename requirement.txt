@@ -1,0 +1,7 @@
+torch==2.2.0
+transformers==4.38.0
+sentencepiece
+streamlit
+numpy<2.0.0
+#pip install -r requirements.txt
+#streamlit run app.py
