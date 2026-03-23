@@ -1,7 +1,5 @@
 🛡️ Toxic Speech Neutralizer
 An AI-powered system that doesn't just block hate speech—it rephrases it. This project uses a hybrid transformer pipeline to detect toxicity and suggest polite, socially acceptable alternatives while preserving the original intent
-🛡️ Toxic Speech Neutralizer
-An AI-powered system that doesn't just block hate speech—it rephrases it. This project uses a hybrid transformer pipeline to detect toxicity and suggest polite, socially acceptable alternatives while preserving the original intent
 Core Features
 Real-time Detection: High-accuracy toxicity scoring using Toxic-BERT.
 
